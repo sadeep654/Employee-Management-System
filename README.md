@@ -5,5 +5,5 @@
 
 This system is capable of managing all the relevant work inside the company. This was created using the JAVA.
 
-![Dart CI](https://github.com/sadeep654/Employee-Management-System/workflows/User.java/badge.svg)
+![Dart CI](https://github.com/TheAlphamerc/flutter_healthcare_app/workflows/Java%20CI/badge.svg)
 
