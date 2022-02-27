@@ -2,4 +2,7 @@
 
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg) <img alt="Bitbucket open pull requests" src="https://img.shields.io/bitbucket/pr/sadeep654/Employee-Management-System"> <img alt="AUR last modified" src="https://img.shields.io/aur/last-modified/Employee-Management-System"> <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/sadeep654/Employee-Management-System">
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sadeep654/Employee-Management-System) 
+
+
 This system is capable of managing all the relevant work inside the company. This was created using the JAVA.
