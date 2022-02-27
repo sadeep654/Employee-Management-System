@@ -6,4 +6,4 @@
 This system is capable of managing all the relevant work inside the company. This was created using the JAVA.
 
 ## Download Project ![GitHub All Releases](https://img.shields.io/github/downloads/sadeep654/Employee-Management-System/total?color=green)
-<img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+
