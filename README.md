@@ -4,3 +4,6 @@
 
 
 This system is capable of managing all the relevant work inside the company. This was created using the JAVA.
+
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/sadeep654/Employee-Management-System) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/sadeep654/Employee-Management-System) ![GitHub last commit](https://img.shields.io/github/last-commit/sadeep654/Employee-Management-System)  ![GitHub issues](https://img.shields.io/github/issues-raw/sadeep654/Employee-Management-System)
