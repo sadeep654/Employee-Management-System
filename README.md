@@ -7,5 +7,4 @@ This system is capable of managing all the relevant work inside the company. Thi
 
 ## Download Project ![GitHub All Releases](https://img.shields.io/github/downloads/sadeep654/Employee-Management-System/total?color=green)
 
-![images-buttons-download-red-download-button-11562896412yilsysnxsr](https://user-images.githubusercontent.com/76505825/155925517-14f332e2-6aa3-42a2-8275-98607d4a2a71.png)
 
