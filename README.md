@@ -50,7 +50,7 @@ A simple, modular Java application built using object-oriented programming princ
 ```
 >### Architecture Summary
 <p align="center">
-  <img src="img/diagram1.png" width="100%" alt="EMS" />
+  <img src="img/diagram11.png" width="100%" alt="EMS" />
 </p>
 
 ---
