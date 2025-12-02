@@ -3,14 +3,21 @@
   <img src="img/banner.png" width="100%" alt="Project Banner" />
 </p>
 
-# 📌 Java Management System
+---
 
-A simple, modular Java application built using object-oriented programming principles.  
-This project includes separate modules for **Admin**, **User**, and **Front-Page handling**, providing a clean structure for managing operations, authentication, and system control.
+## 🔹 Overview
+
+A simple, modular Java application built using object-oriented programming principles. This project includes separate modules for **Admin**, **User**, and **Front-Page handling**, providing a clean structure for managing operations, authentication, and system control.
+>See the demo video below for a quick visual explanation of how the system works.
+<p align="center">
+  <img src="img/demo.gif" alt="Employee Management System Demo" width="1000px">
+</p>
+ 
+>Full system description referenced from project documentation.
 
 ---
 
-## 🚀 Features
+## 🔹 Features
 
 - **User Module**
   - Handles user data
@@ -29,15 +36,16 @@ This project includes separate modules for **Admin**, **User**, and **Front-Page
 
 ---
 
-## 🧱 Project Structure
+## 🔹 Project Structure
 
+```bash
 /Java-Management-System
 ├── Admin.java        # Admin-level operations
 ├── User.java         # User data & methods
 ├── FrontPage.java    # Application main interface / entry point
 ├── README.md
 └── (additional libraries or assets if needed)
-
+```
 
 ---
 
