@@ -111,8 +111,7 @@ See the LICENSE file for details.
 
 If you use or reference this work, please cite:
 ```bash
-Kasthuriarachchi, S.D., Perera, H.A.K.D., Jayasekera, P.Y., and Liyanage, R.S.H. (2020) Java Management System.[Online] Available at: https://github.com/your-repo-link
-(Accessed: date-you-accessed).
+Kasthuriarachchi, S.D., Perera, H.A.K.D., Jayasekera, P.Y., and Liyanage, R.S.H. (2020) Java Management System.[Online] Available at: https://github.com/your-repo-link (Accessed: date-you-accessed).
 ```
 
 ---
