@@ -49,8 +49,8 @@ A simple, modular Java application built using object-oriented programming princ
 
 ---
 
-## 🧠 Concepts Used
-
+## 🔹 Concepts Used
+```bash
 - Object-Oriented Programming (OOP)
   - Classes & Objects  
   - Encapsulation  
@@ -59,11 +59,54 @@ A simple, modular Java application built using object-oriented programming princ
 - Console-based interaction (or GUI depending on your implementation)
 - Modular code structure
 - Basic authentication logic
+```
+
+>### ▶️ Running the Project
+
+#### 1️⃣ Compile all Java files
+```bash
+javac *.java
+```
+#### 2️⃣ Run the main class
+```bash
+java FrontPage
+(If your main method is in another file, update the command accordingly.)
+```
 
 ---
 
-## ▶️ Running the Project
+## 🔹 Requirements
+	•	Java Development Kit (JDK) 8 or above
+	•	Terminal/Command Prompt
+	•	No external libraries required (unless you add more features)
 
-### **1️⃣ Compile all Java files**
-```bash
-javac *.java
+---
+
+## 🔹 Possible Extensions
+
+You can extend this project by adding:
+- File-based or database-based storage
+- GUI using JavaFX or Swing
+- Login encryption
+- Activity logs
+- Role-based access control
+- REST API version in Spring Boot
+
+---
+
+## 🔹 License
+
+This project is licensed under the Apache License 2.0.
+See LICENSE file for full details.
+
+---
+
+## 🔹 Citation
+
+If you use or reference this work, please cite:
+
+Kasthuriarachchi, S.D. (2025). Java Management System. [Online] Available at:
+https://github.com/sadeep654/Java-Management-System
+(Accessed: 25 February 2025)
+
+
