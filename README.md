@@ -1,10 +1,61 @@
-# Employee-Management-System ![](https://img.shields.io/badge/JAVA-02569B?style=for-the-badge&logo=java&logoColor=white)  <br>   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sadeepdilshan69?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/sadeep654?style=social">  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sadeep654/Employee-Management-System?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/sadeep654/Employee-Management-System?style=social">
+<!-- Repository Banner -->
+<p align="center">
+  <img src="img/banner.png" width="100%" alt="Project Banner" />
+</p>
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/sadeep654/Employee-Management-System) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/sadeep654/Employee-Management-System) ![GitHub last commit](https://img.shields.io/github/last-commit/sadeep654/Employee-Management-System)  ![GitHub issues](https://img.shields.io/github/issues-raw/sadeep654/Employee-Management-System) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sadeep654/Employee-Management-System) 
+# 📌 Java Management System
+
+A simple, modular Java application built using object-oriented programming principles.  
+This project includes separate modules for **Admin**, **User**, and **Front-Page handling**, providing a clean structure for managing operations, authentication, and system control.
+
+---
+
+## 🚀 Features
+
+- **User Module**
+  - Handles user data
+  - Stores credentials and profile information
+  - Provides user-level operations
+
+- **Admin Module**
+  - Admin authentication and controls
+  - Management of users and system resources
+  - Elevated actions and configuration options
+
+- **Front Page / Main Controller**
+  - Acts as the entry point to the program  
+  - Manages navigation between Admin and User workflows  
+  - Handles user input and menu display  
+
+---
+
+## 🧱 Project Structure
+
+/Java-Management-System
+├── Admin.java        # Admin-level operations
+├── User.java         # User data & methods
+├── FrontPage.java    # Application main interface / entry point
+├── README.md
+└── (additional libraries or assets if needed)
 
 
-This system is capable of managing all the relevant work inside the company. This was created using the JAVA.
+---
 
-## Download Project ![GitHub All Releases](https://img.shields.io/github/downloads/sadeep654/Employee-Management-System/total?color=green)
+## 🧠 Concepts Used
 
+- Object-Oriented Programming (OOP)
+  - Classes & Objects  
+  - Encapsulation  
+  - Methods & Attributes  
+- Input Handling
+- Console-based interaction (or GUI depending on your implementation)
+- Modular code structure
+- Basic authentication logic
 
+---
+
+## ▶️ Running the Project
+
+### **1️⃣ Compile all Java files**
+```bash
+javac *.java
