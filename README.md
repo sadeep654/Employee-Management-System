@@ -36,7 +36,9 @@ A simple, modular Java application built using object-oriented programming princ
 
 ---
 
-## 🔹 Project Structure
+## 🔹 Architecture
+
+>## Project Structure
 
 ```bash
 /Java-Management-System
@@ -46,6 +48,10 @@ A simple, modular Java application built using object-oriented programming princ
 ├── README.md
 └── (additional libraries or assets if needed)
 ```
+>### Architecture Summary
+<p align="center">
+  <img src="img/diagram.png" width="100%" alt="EMS" />
+</p>
 
 ---
 
