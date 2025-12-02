@@ -96,17 +96,24 @@ You can extend this project by adding:
 
 ## 🔹 License
 
-This project is licensed under the Apache License 2.0.
-See LICENSE file for full details.
+This project is licensed under the MIT License.
+See the LICENSE file for details.
 
 ---
 
 ## 🔹 Citation
 
 If you use or reference this work, please cite:
+```bash
+Kasthuriarachchi, S.D., Perera, H.A.K.D., Jayasekera, P.Y., and Liyanage, R.S.H. (2020) Java Management System.[Online] Available at: https://github.com/your-repo-link
+(Accessed: date-you-accessed).
+```
 
-Kasthuriarachchi, S.D. (2025). Java Management System. [Online] Available at:
-https://github.com/sadeep654/Java-Management-System
-(Accessed: 25 February 2025)
+---
 
+## 🔹 Authors
+- Kasthuriarachchi, S.D.
+- Perera, H.A.K.D.
+- Jayasekera, P.Y.
+- Liyanage R.S.H.
 
